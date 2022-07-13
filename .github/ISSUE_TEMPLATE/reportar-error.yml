@@ -6,7 +6,7 @@ assignees:
   - octocat
 body:
   - type: input
-    id: contact
+    id: modpack-version
     attributes:
       label: ModPack version
       description: Specify the version of your ModPack
@@ -14,7 +14,7 @@ body:
     validations:
       required: true
   - type: input
-    id: contact
+    id: launcher-version
     attributes:
       label: Minecraft Launcher version
       description: Specify the version of your Minecraft Official Launcher
