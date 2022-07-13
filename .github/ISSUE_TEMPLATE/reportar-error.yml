@@ -44,6 +44,5 @@ body:
     attributes:
       label: Publish your log link
       description: Enter your log below
-      render: shell
     validations:
       required: false
