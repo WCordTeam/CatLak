@@ -39,7 +39,7 @@ body:
         - Minecraft Launcher
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: logs
     attributes:
       label: Publish your log link
